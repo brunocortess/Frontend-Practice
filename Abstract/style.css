@@ -2,12 +2,13 @@
 
 nav.navbar-color {
     background-color: #000000;
-    padding: 20px 0;
+    padding: 23px 0;
 }
 
 
 .divisor {
-    width: 1px;
-    color: white;
-    margin: 12px 15px;
+    width: 2px;
+    background-color: rgba(169, 169, 169, 0.336);
+    margin: 6px 5px 6px 0px;
 }
+
